@@ -1,3 +1,6 @@
 [submodule "iceberg"]
 	path = iceberg
 	url = https://github.com/tiki/core-iceberg
+[submodule "account/service"]
+	path = account/service
+	url = https://github.com/tiki/core-account-service
