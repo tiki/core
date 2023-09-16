@@ -4,3 +4,9 @@
 [submodule "account/service"]
 	path = account/service
 	url = https://github.com/tiki/core-account-service
+[submodule "account/sdk/dart"]
+	path = account/sdk/dart
+	url = https://github.com/tiki/core-account-sdk-dart
+[submodule "account/sdk/js"]
+	path = account/sdk/js
+	url = https://github.com/tiki/core-account-sdk-js
