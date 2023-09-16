@@ -1,0 +1,3 @@
+[submodule "iceberg"]
+	path = iceberg
+	url = https://github.com/tiki/core-iceberg
