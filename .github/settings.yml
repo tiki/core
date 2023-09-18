@@ -1,0 +1,5 @@
+# Reference: https://github.com/repository-settings/app
+
+repository:
+  name: core
+  description: The core data platform infrastructure. Not for direct use!
