@@ -1,6 +1,2 @@
 # Reference: https://github.com/repository-settings/app
 _extends: .github
-
-repository:
-  name: core
-  description: The core data platform infrastructure. Not for direct use.
