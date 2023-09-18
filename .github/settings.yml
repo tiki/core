@@ -3,4 +3,4 @@ _extends: .github
 
 repository:
   name: core
-  description: The core data platform infrastructure. Not for direct use!
+  description: The core data platform infrastructure. Not for direct use.
