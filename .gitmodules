@@ -16,3 +16,9 @@
 [submodule "iceberg/catalog"]
 	path = iceberg/catalog
 	url = https://github.com/tiki/core-iceberg-catalog
+[submodule "aws/github/role"]
+	path = aws/github/role
+	url = https://github.com/tiki/core-aws-github-role
+[submodule "ocean"]
+	path = ocean
+	url = https://github.com/tiki/core-ocean
