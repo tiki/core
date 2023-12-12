@@ -7,3 +7,12 @@
 [submodule "account/subscription"]
 	path = account/subscription
 	url = https://github.com/tiki/core-account-subscription
+[submodule "ocean/iceberg-utils"]
+	path = ocean/iceberg-utils
+	url = https://github.com/tiki/core-ocean-iceberg-utils
+[submodule "ocean/catalog"]
+	path = ocean/catalog
+	url = https://github.com/tiki/core-ocean-catalog
+[submodule "ocean/metadata"]
+	path = ocean/metadata
+	url = https://github.com/tiki/core-ocean-metadata
