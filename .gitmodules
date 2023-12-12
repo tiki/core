@@ -1,24 +1,18 @@
 [submodule "account/service"]
 	path = account/service
 	url = https://github.com/tiki/core-account-service
-[submodule "account/sdk/dart"]
-	path = account/sdk/dart
-	url = https://github.com/tiki/core-account-sdk-dart
-[submodule "account/sdk/js"]
-	path = account/sdk/js
-	url = https://github.com/tiki/core-account-sdk-js
-[submodule "iceberg/utils"]
-	path = iceberg/utils
-	url = https://github.com/tiki/core-iceberg-utils
-[submodule "iceberg/metadata"]
-	path = iceberg/metadata
-	url = https://github.com/tiki/core-iceberg-metadata
-[submodule "iceberg/catalog"]
-	path = iceberg/catalog
-	url = https://github.com/tiki/core-iceberg-catalog
 [submodule "aws/github/role"]
 	path = aws/github/role
 	url = https://github.com/tiki/core-aws-github-role
-[submodule "ocean"]
-	path = ocean
-	url = https://github.com/tiki/core-ocean
+[submodule "account/subscription"]
+	path = account/subscription
+	url = https://github.com/tiki/core-account-subscription
+[submodule "ocean/iceberg-utils"]
+	path = ocean/iceberg-utils
+	url = https://github.com/tiki/core-ocean-iceberg-utils
+[submodule "ocean/catalog"]
+	path = ocean/catalog
+	url = https://github.com/tiki/core-ocean-catalog
+[submodule "ocean/metadata"]
+	path = ocean/metadata
+	url = https://github.com/tiki/core-ocean-metadata
