@@ -28,3 +28,6 @@
 [submodule "account/cleanroom/delete"]
 	path = account/cleanroom/delete
 	url = https://github.com/tiki/core-account-cleanroom-delete
+[submodule "aws/account/sf"]
+	path = aws/account/sf
+	url = https://github.com/tiki/core-aws-account-sf
