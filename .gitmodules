@@ -13,3 +13,18 @@
 [submodule "ocean/metadata"]
 	path = ocean/metadata
 	url = https://github.com/tiki/core-ocean-metadata
+[submodule "account/subscription/estimate"]
+	path = account/subscription/estimate
+	url = https://github.com/tiki/core-account-subscription-estimate
+[submodule "account/subscription/purchase"]
+	path = account/subscription/purchase
+	url = https://github.com/tiki/core-account-subscription-purchase
+[submodule "account/subscription/update"]
+	path = account/subscription/update
+	url = https://github.com/tiki/core-account-subscription-update
+[submodule "account/cleanroom/create"]
+	path = account/cleanroom/create
+	url = https://github.com/tiki/core-account-cleanroom-create
+[submodule "account/cleanroom/delete"]
+	path = account/cleanroom/delete
+	url = https://github.com/tiki/core-account-cleanroom-delete
