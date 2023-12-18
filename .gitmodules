@@ -4,9 +4,6 @@
 [submodule "aws/github/role"]
 	path = aws/github/role
 	url = https://github.com/tiki/core-aws-github-role
-[submodule "account/subscription"]
-	path = account/subscription
-	url = https://github.com/tiki/core-account-subscription
 [submodule "ocean/iceberg-utils"]
 	path = ocean/iceberg-utils
 	url = https://github.com/tiki/core-ocean-iceberg-utils
