@@ -31,3 +31,9 @@
 [submodule "aws/account/sf"]
 	path = aws/account/sf
 	url = https://github.com/tiki/core-aws-account-sf
+[submodule "trail/write"]
+	path = trail/write
+	url = https://github.com/tiki/core-trail-write
+[submodule "trail/endpoint"]
+	path = trail/endpoint
+	url = https://github.com/tiki/core-trail-endpoint
