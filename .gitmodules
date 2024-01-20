@@ -40,3 +40,6 @@
 [submodule "ocean/orchestration"]
 	path = ocean/orchestration
 	url = https://github.com/tiki/core-ocean-orchestration
+[submodule "ocean/pipelines"]
+	path = ocean/pipelines
+	url = https://github.com/tiki/core-ocean-pipelines
