@@ -37,3 +37,9 @@
 [submodule "trail/endpoint"]
 	path = trail/endpoint
 	url = https://github.com/tiki/core-trail-endpoint
+[submodule "trail/storage"]
+	path = trail/storage
+	url = https://github.com/tiki/core-trail-storage
+[submodule "aws/authorizer"]
+	path = aws/authorizer
+	url = https://github.com/tiki/core-aws-authorizer
