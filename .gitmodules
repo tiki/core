@@ -43,3 +43,6 @@
 [submodule "aws/authorizer"]
 	path = aws/authorizer
 	url = https://github.com/tiki/core-aws-authorizer
+[submodule "ocean/pipelines"]
+	path = ocean/pipelines
+	url = https://github.com/tiki/core-ocean-pipelines
