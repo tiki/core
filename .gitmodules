@@ -37,9 +37,9 @@
 [submodule "trail/endpoint"]
 	path = trail/endpoint
 	url = https://github.com/tiki/core-trail-endpoint
-[submodule "ocean/orchestration"]
-	path = ocean/orchestration
-	url = https://github.com/tiki/core-ocean-orchestration
 [submodule "ocean/pipelines"]
 	path = ocean/pipelines
 	url = https://github.com/tiki/core-ocean-pipelines
+[submodule "trail/storage"]
+	path = trail/storage
+	url = https://github.com/tiki/core-trail-storage
